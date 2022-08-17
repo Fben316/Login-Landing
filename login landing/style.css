@@ -1,0 +1,33 @@
+body {
+    background-color:darkgray
+    
+}
+
+h1{
+    text-align: center;
+}
+.avatar {
+    border-radius: 200px;
+    border-color: black;
+    border-style:inset
+    
+    
+    }
+.entrar{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    position: initial;
+    font-weight: bold;
+    border-width: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+
+form{
+    text-align: center;
+}
+
+input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
